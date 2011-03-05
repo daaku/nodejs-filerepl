@@ -4,6 +4,10 @@
   "keywords": ["repl"],
   "version": "0.0.1",
   "author": "Naitik Shah <n@daaku.org>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nshah/nodejs-filerepl.git"
+  },
   "dependencies": {
     "temp": ">= 0.2.0"
   },
