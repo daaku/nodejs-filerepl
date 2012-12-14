@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var temp = require('temp')
   , fs = require('fs')
   , repl = require('repl').start('> ')
